@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/map")
 public class MyLog {
+    //added
 
     private static final Logger log = LoggerFactory.getLogger(MyLog.class);
 
